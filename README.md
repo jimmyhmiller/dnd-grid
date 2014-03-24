@@ -1,4 +1,3 @@
-DndGrid
-=======
+#DND map
 
-The goal of this is the be able to have a battle area where people can move their characters during combat. 
+Just experimenting with having a live updating dnd map. Really just a grid for battle.
